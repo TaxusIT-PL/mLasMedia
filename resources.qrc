@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/plugins/mlasmedia" >
+        <file>icon.png</file>
+        <file>icons/wybor_pliku.png</file>
+        <file>icons/identyfikacja.png</file>
+        <file>icons/photo.png</file>
+        <file>icons/movie.png</file>
+        <file>icons/record.png</file>
+        <file>icons/media.png</file>
+    </qresource>
+</RCC>
